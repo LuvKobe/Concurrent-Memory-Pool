@@ -193,9 +193,9 @@ ConcurrentMemoryPool:    ~150–250 ms（≈3–6×）
 
 ## 📜 作者与许可
 
-Author：Edison
-Language：C++
-License：MIT
-Repository：GitHub Link
+- Author：Edison
+- Language：C++
+- License：MIT
+- Repository：[GitHub Link](https://github.com/LuvKobe/Concurrent-Memory-Pool)
 
 
